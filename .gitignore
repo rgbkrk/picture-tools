@@ -1,0 +1,11 @@
+*.jpg
+*.jpeg
+*.gif
+*.png
+*.mov
+*.mp4
+.localized
+
+.ipynb_checkpoints/
+
+Photo Booth Library/
